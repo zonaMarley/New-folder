@@ -30,7 +30,7 @@ button{
     margin-top: 8.5rem;
     font-size: 0.7rem;
     font-weight: bold;
-    color: black;
+    color: rgb(0, 0, 0);
 }
 .een-text{
     color: green;
@@ -44,7 +44,7 @@ button{
 .top-p{
     width: 65px;
     height: 65px;
-    background: rgb(76, 9, 153);
+    background: rgb(153, 9, 57);
     border-radius: 50%;
     text-align: center;
     margin: 1rem 0 1rem 0;
